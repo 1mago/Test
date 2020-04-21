@@ -1,0 +1,14 @@
+В python существует 2 вида циклов:
+Цикл for;
+Цикл while.
+
+Пример с for:
+for number in range(10):
+    if number % 2 == 0:
+        print(number)
+        
+Пример с while:
+i = 0
+while i < 10:
+    print(i)
+    i = i + 1
